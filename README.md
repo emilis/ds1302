@@ -3,10 +3,15 @@
 ## SYNOPSIS
 
 **ds1302**
+
 **ds1302** _'1999-12-31 23:59:59'_
+
 **ds1302** **start**
+
 **ds1302** **stop**
+
 **ds1302** **read** [ _year_ | _month_ | _day_ | _weekday_ | _hours_ | _minutes_ | _seconds_ ]
+
 **ds1302** **write** [ _year_ | _month_ | _day_ | _weekday_ | _hours_ | _minutes_ | _seconds_ ] _VALUE_
 
 ## DESCRIPTION
